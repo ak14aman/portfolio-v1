@@ -12,7 +12,7 @@ You may clone this repository to your local machine using the simple instruction
 ---
 
 After finishing the project I deployed it using Vercel.
-You may have a look at the live website here: https://google.com
+You may have a look at the live website here: https://ak14aman.vercel.app/
 
 ---
 
