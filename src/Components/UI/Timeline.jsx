@@ -39,7 +39,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pr-8">
                                     <div 
                                     data-aos='fade-right'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             LKG, UKG
@@ -67,7 +67,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pl-8">
                                     <div 
                                     data-aos='fade-left'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE I - II
@@ -95,7 +95,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pr-8">
                                     <div 
                                     data-aos='fade-right'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE III - V
@@ -123,7 +123,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pl-8">
                                     <div 
                                     data-aos='fade-left'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE VI
@@ -151,7 +151,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pr-8">
                                     <div 
                                     data-aos='fade-right'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE VII - IX
@@ -179,7 +179,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pl-8">
                                     <div 
                                     data-aos='fade-left'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE X - XII
@@ -207,7 +207,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pr-8">
                                     <div 
                                     data-aos='fade-right'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             NIT DURGAPUR
@@ -235,7 +235,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pl-8">
                                     <div 
                                     data-aos='fade-left'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             Ingenium Edu.
@@ -263,7 +263,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pr-8">
                                     <div 
                                     data-aos='fade-right'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             EDC NIT Dgp
@@ -291,7 +291,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pl-8">
                                     <div 
                                     data-aos='fade-left'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             IEEE SB NIT Dgp
@@ -319,7 +319,7 @@ const Timeline = () => {
                                 <div className="w-full sm:w-1/2 sm:pr-8">
                                     <div 
                                     data-aos='fade-right'
-                                    data-aos-duration='1000'
+                                    data-aos-duration='800'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
                                         <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             NIT DURGAPUR
