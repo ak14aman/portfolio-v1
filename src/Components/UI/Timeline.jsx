@@ -27,7 +27,7 @@ const Timeline = () => {
             </div>
 
             <div className="flex flex-col justify-center sm:py-12">
-                <div className="w-full py-3 px-2 sm:max-w-xl sm:mx-auto sm:px-0">
+                <div className="w-full py-3 px-2 sm:max-w-xl sm:mx-auto sm:px-0">   
                     <div className="relative text-gray-700 antialiased text-sm font-semibold">
                     {/* vertical line running through middle */}
                     <div className="hidden absolute w-1 sm:block bg-indigo-300 h-full left-1/2 transform-translate-x-1/2"></div>
@@ -41,10 +41,10 @@ const Timeline = () => {
                                     data-aos='fade-right'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             LKG, UKG
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2005 - 2007 <br/> Green Ways Academy School <br/> 104 Area, SVN Colony, Visakhapatnam, AP.
                                         </p>
                                     </div>
@@ -69,10 +69,10 @@ const Timeline = () => {
                                     data-aos='fade-left'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE I - II
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2007 - 2009 <br/> Shiva Shivani School <br/> Marripalem, Visakhapatnam, AP.
                                         </p>
                                     </div>
@@ -97,10 +97,10 @@ const Timeline = () => {
                                     data-aos='fade-right'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE III - V
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2009 - 2012 <br/> Navy Children School, Kochi <br/> Naval Base, Kochi, Kerala.
                                         </p>
                                     </div>
@@ -125,10 +125,10 @@ const Timeline = () => {
                                     data-aos='fade-left'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE VI
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2012 - 2013 <br/> Kendriya Vidyalaya, Karwar <br/> Kadamba Vanam, Karwar.
                                         </p>
                                     </div>
@@ -153,10 +153,10 @@ const Timeline = () => {
                                     data-aos='fade-right'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE VII - IX
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2013 - 2016 <br/> Navy Children School, Kochi <br/> Naval Base, Kochi, Kerala.
                                         </p>
                                     </div>
@@ -181,10 +181,10 @@ const Timeline = () => {
                                     data-aos='fade-left'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             GRADE X - XII
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2016 - 2019 <br/> Navy Children School, Port Blair <br/> SCAS | Chanakya | Gyan (iykyk) <br/> Vijay Baugh, Port Blair, A&N.
                                         </p>
                                     </div>
@@ -209,10 +209,10 @@ const Timeline = () => {
                                     data-aos='fade-right'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             NIT DURGAPUR
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         2019 <br/> Bachelor of Technology CSE <br/> Started Education <br/> Durgapur, West Bengal.
                                         </p>
                                     </div>
@@ -237,10 +237,10 @@ const Timeline = () => {
                                     data-aos='fade-left'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             Ingenium Edu.
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                          June 2022 - July 2022 <br/> Frontend Intern
                                         </p>
                                     </div>
@@ -265,10 +265,10 @@ const Timeline = () => {
                                     data-aos='fade-right'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             EDC NIT Dgp
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         TREASURER | 2023 <br/> E-Summit '23
                                         </p>
                                     </div>
@@ -293,10 +293,10 @@ const Timeline = () => {
                                     data-aos='fade-left'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-3 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             IEEE SB NIT Dgp
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         GENERAL SECRETARY | 2023 <br/> Tech X Congress
                                         </p>
                                     </div>
@@ -321,10 +321,10 @@ const Timeline = () => {
                                     data-aos='fade-right'
                                     data-aos-duration='1000'
                                     className=" bg-white p-4 rounded shadow-lg group hover:bg-primaryColor cursor-pointer ease-in duration-150">
-                                        <h3 className='text-primaryColor font-[700] mb-2 group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <h3 className='text-primaryColor font-[700] mb-1 group-hover:text-white group-hover:font-[600] text-xl'>
                                             NIT DURGAPUR
                                         </h3>
-                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-xl'>
+                                        <p className='text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[600] text-l'>
                                         GRADUATED  <br/> Class of 2023 
                                         </p>
                                     </div>
