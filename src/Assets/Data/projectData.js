@@ -2,31 +2,42 @@ import notnetflix from '../Images/projects/notnetflix.png';
 import portfolio from '../Images/projects/portfolio.png';
 import ca from '../Images/projects/ca.png';
 import dvd from '../Images/projects/dvd.png';
+import workplayground from '../Images/projects/workplayground.png';
 
 
 const portfolios = [
   {
     id: "01",
+    imgUrl: workplayground,
+    title: "WORK-PLAYGROUND",
+    description:
+      "Holistic solution designed to optimize planning, organization, task management, etc. for medium-sized organizations. Incorporated @tldraw for Whiteboard implementation. Implemented nodes & edges based UI architecture for workflow and team management.",
+    technologies: ["React.js", "TypeScript", "ReactFlow", "@tldraw"],
+    github: "https://github.com/ak14aman/work-playground",
+    siteUrl: "https://work-playground.vercel.app/",
+  },
+  {
+    id: "02",
     imgUrl: notnetflix,
     title: "NOT-NETFLIX",
     description:
       "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Used Firebase in the backend for user authentication and data storage, Material UI for seamless designs, The Movie DB API for getting movie info, Redux for state management in the app, and finally deployed using Netlify.",
-    technologies: ["React", "Firebase", "Material UI", "Redux"],
+    technologies: ["React.js", "Firebase", "Material UI", "Redux"],
     github: "https://github.com/ak14aman/NOT-NETFLIX",
     siteUrl: "https://not-netflixx.netlify.app/",
   },
   {
-    id: "02",
+    id: "03",
     imgUrl: portfolio,
     title: "Personal Portfolio Website @v1",
     description:
       "Website built in React along with Tailwind CSS for seamless designs, responsive website for a variety of devices.",
-    technologies: ["React", "Tailwind CSS"],
+    technologies: ["React.js", "Tailwind CSS"],
     github: "https://github.com/ak14aman/portfolio-v1",
     siteUrl: "#",
   },
   {
-    id: "03",
+    id: "04",
     imgUrl: ca,
     title: "FINAL YEAR PROJECT on Theory of Cellular Automata",
     description:
@@ -36,7 +47,7 @@ const portfolios = [
     siteUrl: "#",
   },
   {
-    id: "04",
+    id: "05",
     imgUrl: dvd,
     title: "DVD Rental Store Simulation",
     description:
@@ -46,27 +57,27 @@ const portfolios = [
     siteUrl: "#",
   },
   {
-    id: "01",
+    id: "06",
     imgUrl: notnetflix,
     title: "NOT-NETFLIX",
     description:
       "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Used Firebase in the backend for user authentication and data storage, Material UI for seamless designs, The Movie DB API for getting movie info, Redux for state management in the app, and finally deployed using Netlify.",
-    technologies: ["React", "Firebase", "Material UI", "Redux"],
+    technologies: ["React.js", "Firebase", "Material UI", "Redux"],
     github: "https://github.com/ak14aman/NOT-NETFLIX",
     siteUrl: "https://not-netflixx.netlify.app/",
   },
   {
-    id: "02",
+    id: "07",
     imgUrl: portfolio,
     title: "Personal Portfolio Website @v1",
     description:
       "Website built in React along with Tailwind CSS for seamless designs, responsive website for a variety of devices.",
-    technologies: ["React", "Tailwind CSS"],
+    technologies: ["React.js", "Tailwind CSS"],
     github: "https://github.com/ak14aman/portfolio-v1",
     siteUrl: "#",
   },
   {
-    id: "03",
+    id: "08",
     imgUrl: ca,
     title: "FINAL YEAR PROJECT on Theory of Cellular Automata",
     description:
@@ -76,7 +87,7 @@ const portfolios = [
     siteUrl: "#",
   },
   {
-    id: "04",
+    id: "09",
     imgUrl: dvd,
     title: "DVD Rental Store Simulation",
     description:
