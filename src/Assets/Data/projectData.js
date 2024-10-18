@@ -24,7 +24,7 @@ const portfolios = [
       "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Used Firebase in the backend for user authentication and data storage, Material UI for seamless designs, The Movie DB API for getting movie info, Redux for state management in the app, and finally deployed using Netlify.",
     technologies: ["React.js", "Firebase", "Material UI", "Redux"],
     github: "https://github.com/ak14aman/NOT-NETFLIX",
-    siteUrl: "https://not-netflixx.netlify.app/",
+    siteUrl: "https://not-netflixx.vercel.app/",
   },
   {
     id: "03",
