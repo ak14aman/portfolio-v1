@@ -21,7 +21,7 @@ const portfolios = [
     imgUrl: notnetflix,
     title: "NOT-NETFLIX",
     description:
-      "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Used Firebase in the backend for user authentication and data storage, Material UI for seamless designs, The Movie DB API for getting movie info, Redux for state management in the app, and finally deployed using Netlify.",
+      "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Firebase in the backend for user authentication & data storage, Material UI for seamless designs, Movie DB API for getting real-time data, State Management done using Redux, deployed on vercel.",
     technologies: ["React.js", "Firebase", "Material UI", "Redux"],
     github: "https://github.com/ak14aman/NOT-NETFLIX",
     siteUrl: "https://not-netflixx.vercel.app/",
@@ -61,10 +61,9 @@ const portfolios = [
     imgUrl: notnetflix,
     title: "NOT-NETFLIX",
     description:
-      "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Used Firebase in the backend for user authentication and data storage, Material UI for seamless designs, The Movie DB API for getting movie info, Redux for state management in the app, and finally deployed using Netlify.",
-    technologies: ["React.js", "Firebase", "Material UI", "Redux"],
+    "Website built in React for browsing thousands of movies, watch listing them, and getting an overview of them, all in one place. Firebase in the backend for user authentication & data storage, Material UI for seamless designs, Movie DB API for getting real-time data, State Management done using Redux, deployed on vercel.",    technologies: ["React.js", "Firebase", "Material UI", "Redux"],
     github: "https://github.com/ak14aman/NOT-NETFLIX",
-    siteUrl: "https://not-netflixx.netlify.app/",
+    siteUrl: "https://not-netflixx.vercel.app/",
   },
   {
     id: "07",
